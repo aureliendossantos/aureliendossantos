@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-- [Mon blog](https://github.com/aureliendossantos)
+- [Mon blog](https://aureliendossantos.github.io/)
 - [YouTube](https://www.youtube.com/channel/UCCjlo6Ihet_T3X6bKLJzPsA)
 - [LinkedIn](https://www.linkedin.com/in/aureliendossantos/)
 - [itch.io](https://aureliendossantos.itch.io/)
