@@ -8,4 +8,4 @@
 Me contacter :
 
 - 📫 aureliendsantos at gmail.com
-- 💬 Discord : Aurélien#1254 (ou passez par le serveur de [Game Dev Alliance](https://gamedevalliance.fr/)).
+- 💬 Discord : Aurélien#1254 (ou passez par le serveur de [Game Dev Alliance](https://gamedevalliance.fr/))
