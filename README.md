@@ -9,3 +9,5 @@ Me contacter :
 
 - 📫 aureliendsantos at gmail.com
 - 💬 Discord : Aurélien#1254 (ou passez par le serveur de [Game Dev Alliance](https://gamedevalliance.fr/))
+
+Mes bestah : [Erika](https://github.com/Princesseuh) et [Nev](https://github.com/GoulvenC)
