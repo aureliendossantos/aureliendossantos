@@ -1,6 +1,7 @@
 ### Bonjour 👋
 
-- [Mon blog](https://aureliendossantos.github.io/)
+- [Mon site](https://aureliendossantos.com/)
+- [Blog personnel](https://blog.aureliendossantos.com/)
 - [YouTube](https://www.youtube.com/channel/UCCjlo6Ihet_T3X6bKLJzPsA)
 - [LinkedIn](https://www.linkedin.com/in/aureliendossantos/)
 
